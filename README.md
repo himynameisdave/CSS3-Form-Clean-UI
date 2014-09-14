@@ -9,6 +9,10 @@ An ultra-clean 'Contact Us' form utilizing CSS3 transitions and some other cool 
 !['Clean UI Contact Us Form'](https://s3.amazonaws.com/uploads.hipchat.com/108401/799964/JHCHQdkL3TlbOii/Screen%20Shot%202014-09-14%20at%206.34.11%20PM.png "Clean UI Contact Us Form")
 
 ---
+####Demo:
+Check it out on [jsfiddle](http://jsfiddle.net/c5gv1cxx/)
+
+---
 
 ####Usage...
 

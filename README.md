@@ -1,4 +1,4 @@
-CSS3-Form-Clean-UI
+Ultra-Clean UI Contact Form
 ==================
 
 An ultra-clean 'Contact Us' form utilizing CSS3 transitions and some other cool stuff.
@@ -59,4 +59,4 @@ Obviously this is just a base to get you started. Add or remove input feilds as 
 
 ---
 
-######Tweet me [@hi\_mynameisdave](https://twitter.com/hi_mynameisdave)
+######Tweet me [@dave\_lunny](https://twitter.com/dave_lunny)
